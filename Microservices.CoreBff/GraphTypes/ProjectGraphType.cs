@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Dynamic;
 using System.Linq;
-using ExampleMicroservices.DataAccess.DynamicQuery;
+using DMicroservices.DataAccess.DynamicQuery;
 using GraphQL.Types;
 using Newtonsoft.Json;
 using ProjectService.Data.Context;

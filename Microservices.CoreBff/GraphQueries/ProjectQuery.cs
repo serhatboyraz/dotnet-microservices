@@ -1,5 +1,4 @@
-﻿using ExampleMicroservices.DataAccess.UnitOfWork;
-using GraphQL.Types;
+﻿using GraphQL.Types;
 using Microservices.CoreBff.GraphTypes;
 using Newtonsoft.Json;
 using ProjectService.Data.Context;

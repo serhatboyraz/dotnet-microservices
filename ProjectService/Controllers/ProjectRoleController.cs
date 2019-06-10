@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using ExampleMicroservices.Base.Controllers;
-using ExampleMicroservices.DataAccess.UnitOfWork;
-using ExampleMicroservices.Utils.Extensions;
+using DMicroservices.Base.Controllers;
+using DMicroservices.DataAccess.UnitOfWork;
+using DMicroservices.Utils.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using ProjectService.Data.Context;
 using ProjectService.Data.Models;

@@ -9,12 +9,12 @@
   </ItemGroup>
 
   <ItemGroup>
+   <PackageReference Include="DMicroservices.Base" Version="1.0.2" />
    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.4" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExampleMicroservices.Base\ExampleMicroservices.Base.csproj" />
     <ProjectReference Include="..\UserService.Data\UserService.Data.csproj" />
   </ItemGroup>
 

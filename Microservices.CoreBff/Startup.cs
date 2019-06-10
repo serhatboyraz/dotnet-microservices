@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ExampleMicroservices.DataAccess.UnitOfWork;
 using GraphiQl;
 using GraphQL;
 using GraphQL.Types;

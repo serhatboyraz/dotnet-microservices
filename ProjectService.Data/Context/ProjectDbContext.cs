@@ -1,4 +1,4 @@
-﻿using ExampleMicroservices.Utils.Extensions;
+﻿using DMicroservices.Utils.Extensions;
 using Microsoft.EntityFrameworkCore;
 using ProjectService.Data.Models;
 

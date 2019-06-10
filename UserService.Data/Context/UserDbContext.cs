@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using ExampleMicroservices.Utils.Extensions;
+using DMicroservices.Utils.Extensions;
 using Microsoft.EntityFrameworkCore;
 using UserService.Data.Models;
 

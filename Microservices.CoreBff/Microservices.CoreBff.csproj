@@ -10,6 +10,8 @@
 
   <ItemGroup>
     
+    <PackageReference Include="DMicroservices.Base" Version="1.0.2" />
+    
     <PackageReference Include="GraphiQL" Version="1.2.0" />
     <PackageReference Include="GraphQL" Version="2.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.4" />
@@ -24,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExampleMicroservies.DataAccess\ExampleMicroservices.DataAccess.csproj" />
     <ProjectReference Include="..\ProjectService.Data\ProjectService.Data.csproj" />
     <ProjectReference Include="..\UserService.Data\UserService.Data.csproj" />
   </ItemGroup>
