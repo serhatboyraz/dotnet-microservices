@@ -50,6 +50,6 @@ And body
   }
 } }`
 
-![user-example-1](grahpiql-1.jpg)
+![user-example-1](architectrue/grahpiql-1.jpg)
 
 # enjoy!
